@@ -8,3 +8,4 @@
 
 ####效果图：
 ![image](https://github.com/guyuepeng/RoundLayout/blob/master/app/src/main/res/drawable/pic.png)
+![image](https://github.com/guyuepeng/RoundLayout/blob/master/app/src/main/res/drawable/pic1.png)
